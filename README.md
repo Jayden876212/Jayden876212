@@ -37,8 +37,8 @@ Some of my skills/technologies I am familiar with include:
 
 # Stats
 
-![Jayden's Profile Views](https://komarev.com/ghpvc/?username=Jayden876212)
+![](https://komarev.com/ghpvc/?username=Jayden876212&style=for-the-badge)
 
-[![Jayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayden876212)](https://github.com/Jayden876212/github-readme-stats)
+[![Jayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayden876212&theme=nord)](https://github.com/Jayden876212/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jayden876212)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jayden876212&theme=nord)](https://git.io/streak-stats)
