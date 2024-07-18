@@ -37,4 +37,6 @@ Some of my skills/technologies I am familiar with include:
 
 # Stats
 
-![](https://komarev.com/ghpvc/?username=Jayden876212)
+![Jayden's Profile Views](https://komarev.com/ghpvc/?username=Jayden876212)
+
+[![Jayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
