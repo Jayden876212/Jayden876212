@@ -34,3 +34,7 @@ Some of my skills/technologies I am familiar with include:
 - Lua
 - C
 - Problem Solving
+
+# Stats
+
+![](https://komarev.com/ghpvc/?username=Jayden876212)
