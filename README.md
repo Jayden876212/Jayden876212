@@ -18,6 +18,8 @@ As of right now, some of my goals include learning all aspects of full-stack dev
 
 Currently, I am studying a T-Level in Digital Production, Design, and Development whilst undertaking work experience at Rolls-Royce.
 
+Subjects that excite me include open source software, sustainability, and transport (especially trains!).
+
 # Skills
 
 Some of my skills/technologies I am familiar with include:
