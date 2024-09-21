@@ -47,7 +47,7 @@ Some of my skills/technologies I am familiar with include:
 
 # Socials
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/Jayden876212)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https%3A%2F%2Fgithub.com%2FJayden876212)
 
 
 ![linkedin](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jayden-waghorn/)
