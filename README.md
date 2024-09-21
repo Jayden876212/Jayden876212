@@ -44,3 +44,10 @@ Some of my skills/technologies I am familiar with include:
 [![Jayden's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayden876212&theme=nord)](https://github.com/Jayden876212/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jayden876212&theme=nord)](https://git.io/streak-stats)
+
+# Socials
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/Jayden876212)
+
+
+![linkedin](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jayden-waghorn/)
