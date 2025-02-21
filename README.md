@@ -24,18 +24,15 @@ Subjects that excite me include open source software, sustainability, and transp
 
 Some of my skills/technologies I am familiar with include:
 
-- Python
-- CSS
-- HTML
-- Django
-- GitHub
-- Git
-- CLI
-- Linux
-- Bash
-- Lua
-- C
+- Programming
+- Program/Algorithm Design
 - Problem Solving
+- User Interface Design & Creation
+- Software Development
+- Collaboration Software
+- Command Line Interface (CLI) Tools
+- Linux
+- Version Control
 
 # Stats
 
