@@ -4,7 +4,7 @@
 
 Hello there 👋,
 
-I am a highly motivated college student interested in software development.
+I am a highly motivated individual interested in software development.
 
 Some of my interests that I thoroughly enjoy include:
 
@@ -16,7 +16,7 @@ As somebody who takes satisfaction in doing the best they can, I like following 
 
 As of right now, some of my goals include learning all aspects of full-stack development, and completing personal projects whilst learning new tools in the process.
 
-Currently, I am studying a T-Level in Digital Production, Design, and Development whilst undertaking work experience at Rolls-Royce.
+Currently, I have just finished a T-Level in Digital Production, Design, and Development and completed a work experience placement at Rolls-Royce.
 
 Subjects that excite me include open source software, sustainability, and transport (especially trains!).
 
